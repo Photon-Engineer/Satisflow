@@ -6,7 +6,7 @@ This goal of this project is to provide a helpful and relativley unique planning
 
 The tool makes use of [Rete JS](https://github.com/retejs/rete) and several of its plugins to accomplish this. This project would not have been kicked off without their initial work, so thank you to the Rete team!
 
-![Satisflow](./resources/satisflow_demo_image.PNG)
+![Satisflow](./resources/satisflow2_cover.gif)
 
 ## Simple tutorial:
 
