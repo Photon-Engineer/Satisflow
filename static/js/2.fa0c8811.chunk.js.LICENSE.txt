@@ -5,14 +5,14 @@ object-assign
 */
 
 /*!
- * Vue.js v2.6.11
- * (c) 2014-2019 Evan You
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
 
 /*!
-* rete v1.3.1-rc.3 
-* (c) 2019 Vitaliy Stoliarov 
+* rete v1.4.4 
+* (c) 2020 Vitaliy Stoliarov 
 * Released under the MIT license.
 */
 
@@ -29,14 +29,14 @@ object-assign
 */
 
 /*!
-* rete-connection-plugin v0.7.2 
+* rete-connection-plugin v0.9.0 
 * (c) 2019 Vitaliy Stoliarov 
 * Released under the MIT license.
 */
 
 /*!
-* rete-react-render-plugin v0.2.0 
-* (c) 2019  
+* rete-react-render-plugin v0.2.1 
+* (c) 2020  
 * Released under the ISC license.
 */
 

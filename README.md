@@ -48,6 +48,8 @@ Most buildings have the ability to be overclocked up to 250%. To do this, add an
 ![Rotating](./resources/satisflow2_rotate.gif)
 If you click a node, then click "R", it will rotate the node 90 degrees so connections can come and go from any desired direction. You can re-route connections by adding a junction which is a small node with an input and an output that you can use to organize your setup. 
 
+(NEW) Hold control when selecting nodes to move several nodes at a time. Only works for moving nodes. There is no visual indication as to which nodes are selected yet. 
+
 ## Creative Nodes
 ![Creative](./resources/satisflow2_creative.PNG)
 If you want to get a belt with a specific item and rate, you can add a creative node. This can output any item at any rate desired, and can be connected to multiple buildings at once. This can be helpful to represent an already existing part of your factory, or to provide a balanced input to multiple structures at once. 
@@ -62,7 +64,7 @@ You can also clear the current progress by clicking the Clear Editor button. Not
 If you have any issues, please make a post in the issues tab on github. Be specific and provide the text associated with the layout you've produced with the issue, and I will try to fix it in a timely manner. 
 
 ## Known Issues
-Sometimes the editor will hang-up and you will no longer be able to pan or zoom. If this happens, click the export button to save your work, copy the text, reload the page, the paste the text back and reload your progress. The error is not understood at this point in time. 
+Sometimes the editor will hang-up and you will no longer be able to pan or zoom. If this happens, click the export button to save your work, copy the text, reload the page, the paste the text back and reload your progress. The error is not understood at this point in time. (Only tested on Chrome/ Edge (Chromium)/ and Firefox)
 
 Most, but not all recipes have been directly verified to be correct in game. There may be recipes incorrect or missing recipes (especially alternate recipes). 
 
